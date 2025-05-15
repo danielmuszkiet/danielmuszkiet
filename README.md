@@ -6,12 +6,12 @@ Software Developer
 
 * 🌍  I'm based in Stuttgart (Germany)
 * 🖥️  See my portfolio at [danielmuszkiet.de](http://danielmuszkiet.de)
-* 🧠  I'm learning Data Structures + Algorithms
 
 ### Skills
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+JavaScript, React, Vue
+
+Java, CI/CD
 
 ### Socials
 
