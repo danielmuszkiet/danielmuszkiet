@@ -5,7 +5,6 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Stuttgart (Germany)
-* 🖥️  See my portfolio at [danielmuszkiet.de](http://danielmuszkiet.de)
 
 ### 🔧 Tech Stack
 - **Languages:** JavaScript, TypeScript, Java, HTML, CSS, Python
