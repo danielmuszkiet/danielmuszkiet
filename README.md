@@ -8,10 +8,10 @@ Software Developer
 
 ### 🔧 Tech Stack
 - **Languages:** JavaScript, TypeScript, Java, HTML, CSS, Python
-- **Frameworks & Libraries:** React, Next.js, Express, Tailwind CSS, Node.js, StyledComponents
+- **Frameworks & Libraries:** React, Next.js, Express, Tailwind CSS, Node.js, Styled-Components
 - **Databases:** PostgreSQL, Firebase
 - **Tools & DevOps:** Git, Docker, GitHub Actions, Vite
-- **Other:** REST APIs, GraphQL, Figma, Mocha
+- **Other:** REST APIs, GraphQL, Figma, Mocha, Vercel, Render
 
 ### Socials
 
