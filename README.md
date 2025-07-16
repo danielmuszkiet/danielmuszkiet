@@ -1,5 +1,5 @@
-Hi 👋 My name is Daniel Muszkiet
-================================
+Hi 👋 My name is Daniel
+========================
 
 Software Developer
 ------------------
