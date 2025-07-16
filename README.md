@@ -12,7 +12,7 @@ Software Developer
 - **Frameworks & Libraries:** React, Next.js, Express, Tailwind CSS, Node.js, StyledComponents
 - **Databases:** PostgreSQL, Firebase
 - **Tools & DevOps:** Git, Docker, GitHub Actions, Vite
-- **Other:** REST APIs, GraphQL, Prisma, Figma, Mocha
+- **Other:** REST APIs, GraphQL, Figma, Mocha
 
 ### Socials
 
