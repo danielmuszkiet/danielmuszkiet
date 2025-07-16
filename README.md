@@ -8,8 +8,8 @@ Software Developer
 * 🖥️  See my portfolio at [danielmuszkiet.de](http://danielmuszkiet.de)
 
 ### 🔧 Tech Stack
-- **Languages:** JavaScript, TypeScript, Java, HTML, CSS
-- **Frameworks & Libraries:** React, Next.js, Express, Tailwind CSS, Node.js, Flask, StyledComponents
+- **Languages:** JavaScript, TypeScript, Java, HTML, CSS, Python
+- **Frameworks & Libraries:** React, Next.js, Express, Tailwind CSS, Node.js, StyledComponents
 - **Databases:** PostgreSQL, Firebase
 - **Tools & DevOps:** Git, Docker, GitHub Actions, Vite
 - **Other:** REST APIs, GraphQL, Prisma, Figma, Mocha
