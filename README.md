@@ -21,7 +21,7 @@ Software Developer
 
 | The Wild Oasis | WorldWise |
 |----------------|-----------|
-| [![The Wild Oasis](https://github.com/user-attachments/assets/9bbd9d11-e7bf-4dc1-9906-9b64cab0c29e)](https://the-wild-oasis-pi-ten.vercel.app/dashboard) | ![WorldWise](https://github.com/user-attachments/assets/98236d4a-b5e2-445a-8f72-b2d6defcb741) |
+| [![The Wild Oasis](https://github.com/user-attachments/assets/9bbd9d11-e7bf-4dc1-9906-9b64cab0c29e)](https://the-wild-oasis-pi-ten.vercel.app) | [![WorldWise](https://github.com/user-attachments/assets/98236d4a-b5e2-445a-8f72-b2d6defcb741)](https://worldwise-eta-nine.vercel.app/)   
 
 
 
